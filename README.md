@@ -37,9 +37,13 @@ A demo can be found here https://github.com/simonecid/MetropolisODP/blob/master/
 **Installing the template (facultative)**
  
  4) Open Libreoffice Impress
+ 
  5) Select File > Templates > Manage
+ 
  6) Go to the "Presentations" tab
+ 
  7) Select a folder or create a new one, if you prefer
+ 
  8) Click import and select the .otp file
  
 The template can be loaded by using again the same File > Templates > Manage interface and opening the saved template. 
