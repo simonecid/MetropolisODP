@@ -2,6 +2,8 @@
 A porting of the Beamer "Metropolis" theme (https://github.com/matze/mtheme) to Libreoffice Impress. 
 The template tries to provide the same look-and-feel as the Metropolis theme.
 
+A demo can be found here https://github.com/simonecid/MetropolisODP/blob/master/Template.pdf
+
 ## Features
 
  * Title slide defined as a master slide
