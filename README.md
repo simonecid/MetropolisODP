@@ -2,7 +2,7 @@
 A porting of the Beamer "Metropolis" theme (https://github.com/matze/mtheme) to Libreoffice Impress. 
 The template tries to provide the same look-and-feel as the Metropolis theme.
 
-A demo can be found here https://github.com/simonecid/MetropolisODP/blob/master/Template.pdf
+A demo can be found here https://github.com/simonecid/MetropolisODP/blob/master/Demo.pdf
 
 ## Features
 
@@ -10,6 +10,7 @@ A demo can be found here https://github.com/simonecid/MetropolisODP/blob/master/
  * Content slides defined as a master slide
   * A footer has been added in the content slides
  * Stand-out slides (e.g. Back-up) defined as a master slide
+ * Section separator slides as a master slide
  * Uses Fira Sans font, provided in the repository with an installation script
   * Font sizes for outline text from first to ninth level are defined
  * Styles for some drawable objects is defined
@@ -44,8 +45,8 @@ A demo can be found here https://github.com/simonecid/MetropolisODP/blob/master/
  
  7) Select a folder or create a new one, if you prefer
  
- 8) Click import and select the .otp file
+ 8) Click import and select MetropolisTemplate.otp
  
 The template can be loaded by using again the same File > Templates > Manage interface and opening the saved template. 
 
-**Alternatively** one can double-click the .otp file and a new presentation using that template will be loaded.
+**Alternatively** one can double-click MetropolisTemplate.otp and a new presentation using that template will be created.
