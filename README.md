@@ -7,18 +7,18 @@ A demo can be found here https://github.com/simonecid/MetropolisODP/blob/master/
 ## Features
 
  * Title slide defined as a master slide
-  * A dark-themed alternative is available
+     * A dark-themed alternative is available
  * Content slides defined as a master slide
-  * A footer has been added in the content slides
+     * A footer has been added in the content slides
  * Stand-out slides (e.g. Back-up) defined as a master slide
  * Section separator slides as a master slide
-  * A dark-themed alternative is available
+     * A dark-themed alternative is available
  * Uses Fira Sans font, provided in the repository with an installation script
-  * Font sizes for outline text from first to ninth level are defined
+     * Font sizes for outline text from first to ninth level are defined
  * Styles for some drawable objects is defined
-  * Lines
-  * Arrows
-  * Shapes
+     * Lines
+     * Arrows
+     * Shapes
 
 ## Installation
 
